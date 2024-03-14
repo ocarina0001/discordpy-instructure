@@ -1,9 +1,10 @@
 Discord bot integration with the LMS Instructure / Canvas.
 
 # How to use
-1. Open the bot.py file and replace the important token information with the token information relating to you specifcally.
+1. Open the bot.py file and replace the important token information with the token information relating to you specifcally
 2. Save and close bot.py, then launch it using start.bat
 3. If you've done everything correctly, it should now work!
+4. In the discord channel, use the bot's commands to set up your courses for it to understand what information it needs to grab
 
 # How do I get discordToken?
 This is the Discord bot's token, obtained from the discord developer portal.
