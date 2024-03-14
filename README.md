@@ -1,7 +1,7 @@
 Discord bot integration with the LMS Instructure / Canvas.
 
 # How to use
-1. Install the requirements (run a command prompt in the project's root and type "pip install -r requirements.txt"
+1. Install the requirements (run a command prompt in the project's root and type "pip install -r requirements.txt")
 2. Open the bot.py file and replace the important token information with the token information relating to you specifcally
 3. Save and close bot.py, then launch it using start.bat
 4. If you've done everything correctly, it should now work!
